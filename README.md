@@ -1,11 +1,11 @@
-## 電影介紹網站
+## 登入頁面製作
   使用 node.JS 平台搭配後端 express 框架建立登入頁面
   
 ### 專案畫面
-![image](https://github.com/LettuceLu751103/movie_list_remote/blob/master/movie_list_p1.png)
+![image](https://github.com/LettuceLu751103/login_procedure/blob/master/loginPage.png)
 
 ### 產品功能
-1. 使用者可以進行登入驗證
+1. 使用者可以進行登入驗證(帳號密碼)
 
 ### 建置環境
 1. Node.JS : v10.15.0
